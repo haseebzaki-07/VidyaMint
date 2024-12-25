@@ -23,7 +23,7 @@ function Header() {
           <a href="#contact" className="hover:text-gray-300 transition">
             Contact
           </a>
-          <a href="#login" className="hover:text-gray-300 transition">
+          <a href="/login" className="hover:text-gray-300 transition">
             Login
           </a>
         </nav>
